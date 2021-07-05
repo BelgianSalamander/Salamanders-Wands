@@ -1,0 +1,10 @@
+name: Superhuman
+version: ${project.version}
+main: salamander.superhuman.Superhuman
+api-version: 1.16
+commands:
+  minion:
+  invis:
+  superself:
+  npc:
+  wand:
